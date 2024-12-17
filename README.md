@@ -23,9 +23,9 @@ In this game, the player controls an adventurer navigating through a jungle fill
 ## **How to Play**
 
 1. **Controls**:
-   - **Left/Right Arrow Keys** or **A/D**: Move the character between three parallel paths.
+   - **Left/Right Arrow Keys** or **Q/D**: Move the character between three parallel paths.
    - **Down Arrow** or **S**: Crouch to avoid logs.
-   - **Up Arrow** or **W**: Jump to avoid holes.
+   - **Up Arrow** or **Z**: Jump to avoid holes.
 
 2. **Objective**: The goal is to survive as long as possible by avoiding obstacles. The longer you survive, the higher your score gets.
 
@@ -56,19 +56,15 @@ To play the game on your machine, follow these steps:
 3. Run the game:
    After installing the dependencies, run the game with the following command:
    ```bash
-   python game.py
+   python main.py
    ```
 
 ---
 
 ## **Project Structure**
 
-- **game.py**: Main file containing the game logic.
+- **main.py**: Main file containing the game logic.
 - **assets/**: Directory containing images and other assets used in the game (e.g., character images, obstacle images, backgrounds).
-- **ecs/**: Contains the core ECS architecture, including:
-   - `Entity.py`: Defines the basic entity structure.
-   - `Component.py`: Base class for components.
-   - `System.py`: Base class for systems.
 - **README.md**: Documentation for the project (this file).
 
 ---
@@ -93,21 +89,6 @@ This structure allows for easy modification and extension of the game’s featur
 - Implement power-ups (e.g., invincibility, speed boost).
 - Add sound effects and background music.
 - Optimize game performance for larger maps.
-
----
-
-## **Contributing**
-
-Feel free to fork the repository and submit pull requests with improvements or bug fixes. If you want to contribute, please ensure you adhere to the following guidelines:
-
-- Write clean and well-documented code.
-- Test your changes before submitting a pull request.
-
----
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

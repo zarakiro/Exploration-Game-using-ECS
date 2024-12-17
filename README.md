@@ -27,7 +27,7 @@ In this game, the player controls an adventurer navigating through a jungle fill
    - **Down Arrow** or **S**: Crouch to avoid logs.
    - **Up Arrow** or **Z**: Jump to avoid holes.
 
-2. **Objective**: The goal is to survive as long as possible by avoiding obstacles. The longer you survive, the higher your score gets.
+2. **Objective**: The goal is to survive as long as possible by avoiding obstacles. The longer you survive, the higher your score gets. To reward risk-taking, each obstacle cleared earns 3 extra points.
 
 3. **Game Over**: The game ends when the player collides with an obstacle they cannot avoid.
 

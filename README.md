@@ -1,4 +1,4 @@
-```markdown
+
 # Jungle Adventure Game (ECS-based)
 
 This is a video game created using the **Entity-Component-System (ECS)** architecture, inspired by classic endless runner games like **Temple Run** and **Subway Surfer**. The game follows the theme of jungle exploration, where the player takes on the role of an adventurer who must avoid various obstacles to progress.
@@ -113,5 +113,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Enjoy the game, and may you survive the jungle! 🌿👣
 ```
-
-Ce fichier Markdown est complet et prêt à être utilisé dans un dépôt GitHub. Vous pouvez le copier et le coller dans le fichier `README.md` de votre projet.
